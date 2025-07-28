@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to SJ cards related Prod APIs "
+  message: "Welcome to SJ cards related Prod-re APIs "
   contactDetails:
     name: "js-prod"
     email: "sj-prod@sj.com"
