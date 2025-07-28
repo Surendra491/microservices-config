@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to sj loans related Prod APIs "
+  message: "Welcome to sj loans related Prod-re APIs "
   contactDetails:
     name: "sj-prod"
     email: "sj@sj.com"
