@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to sj accounts related Prod APIs"
+  message: "Welcome to sj accounts related Prod-Re APIs"
   contactDetails:
     name: "Sj-prod"
     email: "{cipher}06105e16b99e79f659f5414445c4e56842f0400d7c57b3bcbd498e6e03036d50"
